@@ -7,11 +7,11 @@ require "yaffle/version"
 Gem::Specification.new do |s|
   s.name        = "yaffle"
   s.version     = Yaffle::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Yaffle."
-  s.description = "TODO: Description of Yaffle."
+  s.authors     = ["avvmoto"]
+  s.email       = nil
+  s.homepage    = nil
+  s.summary     = nil
+  s.description = nil
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
