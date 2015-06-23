@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.name        = "yaffle"
   s.version     = Yaffle::VERSION
   s.authors     = ["avvmoto"]
-  s.email       = nil
-  s.homepage    = nil
-  s.summary     = nil
-  s.description = nil
+  s.email       = "hoge@example.com"
+  s.homepage    = "https://github.com/avvmoto/niboshi"
+  s.summary     = "hoge"
+  s.description = "hoge"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
